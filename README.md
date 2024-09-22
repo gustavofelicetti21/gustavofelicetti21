@@ -1,7 +1,7 @@
 ## Welcome at My Profile, I'm Gustavo Felicetti, a Computer Science Student!
 
 <div>
-  <a href="https://github.com/gustavofelicetti21"/>
+  <a href="https://github.com/gustavofelicetti21" style="text-decoration: none"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gustavofelicetti21&show_icons=true&theme=shadow_red&include_all_commits=true$count_private=true"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofelicetti21&layout=donut&theme=shadow_red&include_all_commits=true$count_private=true"/>
 </div>
@@ -29,7 +29,7 @@
   <a href="mailto:gustavokfelicetti@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="" target="_blank" style="text-decoration: none">
+  <a href="https://wa.me/5549999567737" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/gustavofelicetti21/" target="_blank" style="text-decoration: none">
