@@ -1,7 +1,6 @@
 ## Welcome at My Profile, I'm Gustavo Felicetti, a Computer Science Student!
 
 <div>
-  <a style="text-decoration: none" href="https://github.com/gustavofelicetti21"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gustavofelicetti21&show_icons=true&theme=shadow_red&include_all_commits=true$count_private=true"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofelicetti21&layout=donut&theme=shadow_red&include_all_commits=true$count_private=true"/>
 </div>
@@ -21,18 +20,7 @@
 </div>
 
 ##
-
-<div>
-  <a target="_blank" style="text-decoration: none" href="https://www.instagram.com/gustavofelicetti21/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a target="_blank" style="text-decoration: none" href="mailto:gustavokfelicetti@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a target="_blank" style="text-decoration: none" href="https://wa.me/5549999567737">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  <a target="_blank" style="text-decoration: none" href="https://www.linkedin.com/in/gustavofelicetti21/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavofelicetti21/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavokfelicetti@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5549999567737)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavofelicetti21/)
